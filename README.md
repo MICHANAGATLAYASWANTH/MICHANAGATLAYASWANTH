@@ -1,7 +1,16 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,35&height=230&section=header&text=Yaswanth%20Michanagatla&fontSize=42&fontAlignY=36&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,35&height=220&section=header&text=Yaswanth%20Michanagatla&fontSize=40&fontAlignY=36&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+
+<br/>
+
+<!-- Profile Avatar -->
+<a href="https://github.com/MICHANAGATLAYASWANTH">
+  <img src="assets/avatar.png" width="145" height="145" style="border-radius: 50%; max-width: 100%; height: auto;" alt="Yaswanth Michanagatla" />
+</a>
+
+<br/>
 
 <!-- Typing Animated SVG -->
 <a href="https://github.com/MICHANAGATLAYASWANTH">
@@ -38,19 +47,28 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-Name: Yaswanth Michanagatla
-Role: AI/ML Developer & Full Stack Engineer
-Passion: Crafting intelligent algorithms & intuitive digital experiences
-Current Focus: Machine Learning pipelines, Computer Vision & Financial Analytics
-Hobbies: Exploring new tech stacks, algorithmic problem solving & open-source
-```
-
-- 🔭 **I’m currently working on:** Intelligent Machine Learning systems (Smart Stock Market Risk Analysis & Campus Lost & Found ML Portal).
-- 🌱 **I’m currently learning:** Deep Learning architectures, Neural Networks, and Cloud-native AI deployment.
-- 💡 **I enjoy:** Transforming raw data into actionable insights and building responsive, user-friendly web interfaces.
-- 💬 **Ask me about:** Python, Machine Learning, Data Analytics, JavaScript, and Web Development.
-- 📫 **How to reach me:** [michanagatlayaswanth999@gmail.com](mailto:michanagatlayaswanth999@gmail.com)
+<table>
+  <tr>
+    <td width="32%" align="center" valign="middle">
+      <img src="assets/avatar.png" width="160" height="160" style="border-radius: 50%; display: block;" alt="Yaswanth Michanagatla" />
+      <br/>
+      <b>Yaswanth Michanagatla</b><br/>
+      <sub>AI/ML & Full Stack Engineer</sub><br/>
+      <sub>📍 Andhra Pradesh, India</sub>
+    </td>
+    <td width="68%" valign="top">
+      <p>
+        Hey there! I am a passionate developer dedicated to building intelligent Machine Learning models, data analytics pipelines, and interactive full-stack web applications. I love solving challenging algorithmic problems and translating data into actionable real-world software.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently working on:</b> Intelligent ML systems (<a href="https://github.com/MICHANAGATLAYASWANTH/Smart-Stock-Market-Analysis-and-Risk-Evaluation-System">Stock Market Risk Analysis</a> & <a href="https://github.com/MICHANAGATLAYASWANTH/lost-found_mLproject">Campus Lost & Found ML Portal</a>).</li>
+        <li>🌱 <b>Currently learning:</b> Advanced Deep Learning architectures, Neural Networks & Cloud-native AI.</li>
+        <li>💬 <b>Ask me about:</b> Python, Machine Learning, Data Analytics, JavaScript, and Web Development.</li>
+        <li>📫 <b>Contact:</b> <a href="mailto:michanagatlayaswanth999@gmail.com">michanagatlayaswanth999@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
