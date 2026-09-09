@@ -10,19 +10,26 @@
 <br/>
 
 <!-- Typing Animated SVG -->
-<a href="https://github.com/MICHANAGATLAYASWANTH">
+<a href="#-what-i-have-done--core-experience" title="Click to view what I've built and done in each domain!">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%9A%80+AI+%26+Machine+Learning+Developer;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%93%8A+Data+Science+%26+Predictive+Analytics;%E2%9A%A1+Passionate+Software+Engineer+%26+Builder" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Badges / Visitor Counter -->
+<!-- Profile Badges / Clickable Role Badges -->
 <p align="center">
   <a href="https://github.com/MICHANAGATLAYASWANTH">
     <img src="https://komarev.com/ghpvc/?username=MICHANAGATLAYASWANTH&label=Profile%20Views&color=7050ff&style=flat-square" alt="Visitor Count" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20AI-00C49F?style=flat-square&logo=openai&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations%20%26%20Opportunities-blueviolet?style=flat-square" alt="Open to Collaborations" />
+  <a href="#-what-i-have-done-in-full-stack-web-development" title="Click to see what I've done in Full Stack Web Development">
+    <img src="https://img.shields.io/badge/💻_Role-Full_Stack_Web_Developer-0ea5e9?style=flat-square&logo=javascript&logoColor=white" alt="Full Stack Web Developer" />
+  </a>
+  <a href="#-what-i-have-done-in-machine-learning--ai" title="Click to see what I've done in Machine Learning & AI">
+    <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20AI-00C49F?style=flat-square&logo=openai&logoColor=white" alt="Focus" />
+  </a>
+  <a href="#-open-to-collaborations--opportunities" title="Click to see what I'm looking to collaborate on">
+    <img src="https://img.shields.io/badge/Open%20to-Collaborations%20%26%20Opportunities-blueviolet?style=flat-square" alt="Open to Collaborations" />
+  </a>
 </p>
 
 <!-- Social Connect Badges -->
@@ -66,6 +73,149 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 💼 What I Have Done & Core Experience
+
+<p align="center">
+  <sub>👇 Click any section below to see detailed accomplishments, engineering highlights, and code repositories:</sub>
+</p>
+
+<details open>
+  <summary><b id="-what-i-have-done-in-full-stack-web-development">💻 What I Have Done in Full Stack Web Development</b> (Click to collapse/expand)</summary>
+  <br/>
+  <table>
+    <tr>
+      <th width="30%">Project / System</th>
+      <th width="50%">What I Engineered & Accomplished</th>
+      <th width="20%">Tech & Code</th>
+    </tr>
+    <tr>
+      <td><b>📝 Interactive Task & Productivity Hub</b></td>
+      <td>
+        • Engineered a dynamic productivity application with responsive UI, filtering, and real-time state updates.<br/>
+        • Implemented stateful task management: dynamic task creation, completion toggling, status filtering (all/completed/pending), and deletion.<br/>
+        • Integrated browser <code>LocalStorage</code> for zero-latency client-side data persistence.<br/>
+        • Designed custom dark-mode CSS3 layouts with micro-animations and accessibility standards.
+      </td>
+      <td>
+        <code>JavaScript</code><br/>
+        <code>HTML5</code><br/>
+        <code>CSS3</code><br/>
+        <code>LocalStorage</code><br/>
+        <a href="https://github.com/MICHANAGATLAYASWANTH/todo_list"><b>View Repo ↗</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🔍 Campus Lost & Found Web Portal</b></td>
+      <td>
+        • Developed the backend web service and routing architecture using Python & Flask.<br/>
+        • Created RESTful API endpoints for secure report submission, search queries, and status updates.<br/>
+        • Built the image upload and payload validation pipeline connecting user inputs directly to ML classification models.<br/>
+        • Structured clean client-server interaction for campus item recovery.
+      </td>
+      <td>
+        <code>Flask</code><br/>
+        <code>REST APIs</code><br/>
+        <code>Python</code><br/>
+        <a href="https://github.com/MICHANAGATLAYASWANTH/lost-found_mLproject"><b>View Repo ↗</b></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details open>
+  <summary><b id="-what-i-have-done-in-machine-learning--ai">🧠 What I Have Done in Machine Learning & AI</b> (Click to collapse/expand)</summary>
+  <br/>
+  <table>
+    <tr>
+      <th width="30%">Project / System</th>
+      <th width="50%">What I Engineered & Accomplished</th>
+      <th width="20%">Tech & Code</th>
+    </tr>
+    <tr>
+      <td><b>🔍 Campus Lost & Found ML System</b></td>
+      <td>
+        • Designed an end-to-end Machine Learning classification pipeline for lost property matching.<br/>
+        • Implemented computer vision image pre-processing and feature extraction using OpenCV.<br/>
+        • Trained classification models using Scikit-Learn to categorize items and compute similarity scores.<br/>
+        • Integrated automated matching algorithms to match lost claims with found items accurately.
+      </td>
+      <td>
+        <code>Scikit-Learn</code><br/>
+        <code>OpenCV</code><br/>
+        <code>TensorFlow</code><br/>
+        <a href="https://github.com/MICHANAGATLAYASWANTH/lost-found_mLproject"><b>View Repo ↗</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>📈 Smart Stock Market Risk Evaluation</b></td>
+      <td>
+        • Built an algorithmic financial risk evaluation system analyzing historical stock trends.<br/>
+        • Implemented mathematical volatility indicators, moving averages, and risk score modeling.<br/>
+        • Structured automated predictive data transformations for evaluating asset risk profiles.
+      </td>
+      <td>
+        <code>Python</code><br/>
+        <code>Pandas</code><br/>
+        <code>NumPy</code><br/>
+        <a href="https://github.com/MICHANAGATLAYASWANTH/Smart-Stock-Market-Analysis-and-Risk-Evaluation-System"><b>View Repo ↗</b></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details open>
+  <summary><b id="-what-i-have-done-in-data-science--predictive-analytics">📊 What I Have Done in Data Science & Predictive Analytics</b> (Click to collapse/expand)</summary>
+  <br/>
+  <table>
+    <tr>
+      <th width="30%">Domain / Project</th>
+      <th width="50%">What I Engineered & Accomplished</th>
+      <th width="20%">Tech & Code</th>
+    </tr>
+    <tr>
+      <td><b>🧪 Data Science & ML Engineering Labs</b></td>
+      <td>
+        • Conducted in-depth exploratory data analysis (EDA), correlation analysis, and statistical distributions.<br/>
+        • Handled missing value imputation, outlier detection, and multidimensional feature scaling.<br/>
+        • Trained and benchmarked predictive regression and classification models with metrics evaluation (RMSE, accuracy, confusion matrix).
+      </td>
+      <td>
+        <code>Jupyter</code><br/>
+        <code>Pandas</code><br/>
+        <code>Scikit-Learn</code><br/>
+        <a href="https://github.com/MICHANAGATLAYASWANTH/internpe"><b>View Repo ↗</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>⚡ Vector Mathematics & Array Analytics</b></td>
+      <td>
+        • Utilized NumPy for high-speed N-dimensional vector computations and matrix mathematics.<br/>
+        • Engineered automated financial metrics and statistical variance calculations over large time-series datasets.
+      </td>
+      <td>
+        <code>NumPy</code><br/>
+        <code>Statistical Math</code><br/>
+        <a href="https://github.com/MICHANAGATLAYASWANTH/Smart-Stock-Market-Analysis-and-Risk-Evaluation-System"><b>View Repo ↗</b></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details open>
+  <summary><b id="-open-to-collaborations--opportunities">🤝 What I Am Doing & Open To (Collaborations & Opportunities)</b> (Click to collapse/expand)</summary>
+  <br/>
+  <blockquote>
+    <p><b>Current Focus:</b> Actively seeking collaborative software engineering projects, research collaborations in AI/ML, and internship/full-time developer roles.</p>
+    <ul>
+      <li>🌱 <b>Areas I'm Building:</b> Deep learning computer vision models, scalable full-stack web applications, and algorithmic data analytics.</li>
+      <li>💡 <b>Open to:</b> AI/ML research & development, backend API engineering, full-stack open-source projects, and technical hackathons.</li>
+      <li>📫 <b>Get in Touch:</b> <a href="mailto:michanagatlayaswanth999@gmail.com"><b>michanagatlayaswanth999@gmail.com</b></a> | <a href="https://linkedin.com/in/michanagatlayaswanth"><b>Connect on LinkedIn ↗</b></a></li>
+    </ul>
+  </blockquote>
+</details>
 
 ---
 
