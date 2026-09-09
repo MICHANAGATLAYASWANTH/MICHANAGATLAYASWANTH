@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,35&height=220&section=header&text=Yaswanth%20Michanagatla&fontSize=40&fontAlignY=36&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
-
-<br/>
-
 <!-- Profile Avatar -->
 <a href="https://github.com/MICHANAGATLAYASWANTH">
-  <img src="assets/avatar.png" width="145" height="145" style="border-radius: 50%; max-width: 100%; height: auto;" alt="Yaswanth Michanagatla" />
+  <img src="assets/avatar.png" width="150" height="150" style="border-radius: 50%; max-width: 100%; height: auto;" alt="Yaswanth Michanagatla" />
 </a>
+
+<h1 align="center" style="font-size: 2.2rem; margin-top: 14px; margin-bottom: 8px;">Hi there, I'm Yaswanth Michanagatla 👋</h1>
 
 <br/>
 
@@ -78,41 +75,142 @@
 
 #### 💻 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories&language=python" title="View Python Projects">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories&language=javascript" title="View JavaScript Projects">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories&q=sql" title="View SQL Projects">
+    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories&language=html" title="View HTML5 Projects">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories&language=css" title="View CSS3 Projects">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
 </p>
 
 #### 🧠 AI, Machine Learning & Data Science
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <a href="https://github.com/MICHANAGATLAYASWANTH/lost-found_mLproject" title="View Scikit-Learn in Lost & Found ML Project">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH/Smart-Stock-Market-Analysis-and-Risk-Evaluation-System" title="View Pandas in Stock Risk Analysis Project">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH/Smart-Stock-Market-Analysis-and-Risk-Evaluation-System" title="View NumPy in Stock Risk Analysis Project">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH/lost-found_mLproject" title="View Deep Learning & Classification Models">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH/lost-found_mLproject" title="View OpenCV Image Processing">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH/internpe" title="View Jupyter Data Science Labs">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  </a>
 </p>
 
 #### 🌐 Web Development & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories&q=react" title="View React Projects">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories&q=node" title="View Node.js Projects">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH/lost-found_mLproject" title="View Flask in Campus Lost & Found System">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH/todo_list" title="View Bootstrap in Productivity App">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
 </p>
 
 #### ⚙️ Developer Tools & Environments
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories" title="View All Repositories on Git">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH" title="View GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH" title="Development with VS Code">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH" title="Linux Shell & Systems">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://github.com/MICHANAGATLAYASWANTH" title="API Testing with Postman">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>💡 <b>Interactive Explorer:</b> Click any badge above to open matching GitHub projects, or click the sections below to explore related code!</sub>
 </p>
 
 </div>
+
+<br/>
+
+<details>
+  <summary><b>🐍 Python & Machine Learning (Click to view related projects & skills)</b></summary>
+  <br/>
+  <blockquote>
+    <p><b>Primary Applications:</b> Machine Learning pipelines, automated classification, algorithmic risk analysis, computer vision, and REST API deployment.</p>
+    <ul>
+      <li>🔍 <b><a href="https://github.com/MICHANAGATLAYASWANTH/lost-found_mLproject">Campus Lost & Found ML System</a></b> — Image feature extraction, item classification models, and Flask-based serving.</li>
+      <li>📈 <b><a href="https://github.com/MICHANAGATLAYASWANTH/Smart-Stock-Market-Analysis-and-Risk-Evaluation-System">Smart Stock Market Analysis & Risk Evaluation</a></b> — Financial data modeling, predictive analytics, volatility evaluation with Pandas & NumPy.</li>
+      <li>🧪 <b><a href="https://github.com/MICHANAGATLAYASWANTH/internpe">Data Science & ML Engineering Labs</a></b> — Applied machine learning experiments, regression & classification models in Jupyter Notebooks.</li>
+      <li>🚀 <b><a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories&language=python">Filter All Python Projects on GitHub ↗</a></b></li>
+    </ul>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🟨 JavaScript & Web Development (Click to view related projects & skills)</b></summary>
+  <br/>
+  <blockquote>
+    <p><b>Primary Applications:</b> Responsive user interfaces, dynamic DOM manipulation, persistent state, and asynchronous client applications.</p>
+    <ul>
+      <li>📝 <b><a href="https://github.com/MICHANAGATLAYASWANTH/todo_list">Interactive Task & Productivity Hub</a></b> — Dynamic task filtering, LocalStorage state management, clean responsive CSS3 styling.</li>
+      <li>🌐 <b>Frontend Core:</b> Semantic HTML5 structuring, modern CSS3 layout systems (Flexbox/Grid), and ES6+ JavaScript.</li>
+      <li>🚀 <b><a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories&language=javascript">Filter All JavaScript Projects on GitHub ↗</a></b></li>
+    </ul>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>📊 Data Science, Mathematics & Analytics (Pandas, NumPy, Scikit-Learn)</b></summary>
+  <br/>
+  <blockquote>
+    <p><b>Primary Applications:</b> Data cleaning, vector math computations, feature engineering, and predictive model training.</p>
+    <ul>
+      <li>⚡ <b>NumPy & Pandas:</b> High-throughput multidimensional data arrays, financial time-series computations, missing value imputation.</li>
+      <li>🤖 <b>Scikit-Learn:</b> Supervised/unsupervised algorithms, evaluation metrics (ROC-AUC, confusion matrix, MSE), hyperparameter tuning.</li>
+      <li>📈 <b><a href="https://github.com/MICHANAGATLAYASWANTH/Smart-Stock-Market-Analysis-and-Risk-Evaluation-System">Explore Stock Market Predictive Analytics Project ↗</a></b></li>
+    </ul>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>⚙️ Backend, Frameworks & Tooling (Flask, SQL, Git, Postman)</b></summary>
+  <br/>
+  <blockquote>
+    <p><b>Primary Applications:</b> Microservices architecture, API endpoint testing, relational data design, and Git version control.</p>
+    <ul>
+      <li>🌶️ <b>Flask:</b> Lightweight Python backend framework for model deployment and web service integration.</li>
+      <li>🗄️ <b>SQL:</b> Database schema design, relational querying, and data persistence.</li>
+      <li>🔧 <b>Git & GitHub:</b> Branch management, pull requests, automated GitHub Actions workflows (Snake contribution graphs).</li>
+      <li>🚀 <b><a href="https://github.com/MICHANAGATLAYASWANTH?tab=repositories">Browse All Public Repositories on GitHub ↗</a></b></li>
+    </ul>
+  </blockquote>
+</details>
+
 
 ---
 
